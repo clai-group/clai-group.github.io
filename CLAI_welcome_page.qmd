@@ -1,0 +1,24 @@
+---
+title: " Clinical Augmented Intelligence (CLAI) Group"
+format: html
+editor: visual
+---
+
+##### Integrating Medicine, Data Science, & Phenomenology to enrich human phenotype models.
+
+![](images/CLAI_header_HMSMGHMGB.png){fig-align="center"}
+
+# About Us
+
+Our goal at CLAI is to integrate *phenomenological theory*and *clinical knowledge* with state-of-the-art *Machine Learning/Artificial Intelligence* methods to **develop enriched computational models of human phenotypes.**
+
+```{r, include=F}
+library(ggplot2)
+library(dplyr)
+```
+
+# Projects
+
+1.  [MLHO](https://hestiri.github.io/mlho/articles/MLHO_Vanilla.html)
+
+![](images/MLHO_logo.png){fig-align="right"}
