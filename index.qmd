@@ -1,0 +1,30 @@
+---
+title: " Clinical Augmented Intelligence (CLAI) Group"
+format: html
+editor: visual
+---
+
+##### Integrating Medicine, Data Science, & Phenomenology to enrich human phenotype models.
+
+![](images/CLAI_header_HMSMGHMGB.png){fig-align="center"}
+
+# About Us
+
+Our goal at CLAI is to integrate *phenomenological theory*and *clinical knowledge* with state-of-the-art *Machine Learning/Artificial Intelligence* methods to **develop enriched computational models of human phenotypes.**
+
+```{r, include=F}
+library(ggplot2)
+library(dplyr)
+```
+
+# Projects
+
+## Propensity Score Analysis for Medical Research
+
+**Propensity score analysis** is a popular method of adjusting for confounding in observational studies, i.e., studies where patients are not randomly assigned into treatment groups. Despite its popularity in medical research, there are many nuances to the method that are often missed by researchers, including about the assumptions required, the quantities that can be estimated, and the correct procedures for performing and reporting an analysis. The goal of this guide is to summarize best practices in propensity score analysis for medical researchers, highlighting the decisions researchers must make to validly perform and interpret an analysis.
+
+## Machine Learning for Health Outcomes ([MLHO](https://hestiri.github.io/mlho/articles/MLHO_Vanilla.html)) 
+
+MLHO is a thinkin\' Machine Learning framework that implements iterative sequential representation mining, and feature and model selection to predict health outcomes. MLHO\'s architecture enables a parallel and outcome-oriented model calibration, in which different statistical learning algorithms and vectors of features are simultaneously tested to improve prediction of health outcomes. 
+
+![](images/MLHO_logo.png){fig-align="right"}
