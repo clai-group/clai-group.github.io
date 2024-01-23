@@ -23,7 +23,7 @@ library(dplyr)
 
 **Propensity score analysis** is a popular method of adjusting for confounding in observational studies, i.e., studies where patients are not randomly assigned into treatment groups. Despite its popularity in medical research, there are many nuances to the method that are often missed by researchers, including about the assumptions required, the quantities that can be estimated, and the correct procedures for performing and reporting an analysis
 
-## Machine Learning for Health Outcomes ([MLHO](https://hestiri.github.io/mlho/index.html))
+## Machine Learning for Health Outcomes ([MLHO](https://clai-group.github.io/MLHO/index.html))
 
 MLHO is a thinkin' Machine Learning framework that implements iterative sequential representation mining, and feature and model selection to predict health outcomes. MLHO's architecture enables a parallel and outcome-oriented model calibration, in which different statistical learning algorithms and vectors of features are simultaneously tested to improve prediction of health outcomes. 
 
