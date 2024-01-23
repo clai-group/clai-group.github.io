@@ -29,4 +29,6 @@ MLHO is a thinkin' Machine Learning framework that implements iterative sequenti
 
 ![](images/MLHO_logo.png){fig-align="right"}
 
-## Post-Acute Sequelae of SARS-CoV-2 Infection (PASC) Analysis
+## Post-Acute Sequelae of SARS-CoV-2 Infection ([PASC](https://clai-group.github.io/long_covid_ai_implementation_guide/)) Analysis 
+
+This project aims to implement a computational algorithm for defining long COVID patients based on the WHO definition. We provide different scripts to streamline multi-site implementation.
