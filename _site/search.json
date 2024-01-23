@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Our goal at CLAI is to integrate phenomenological theory and clinical knowledge with state-of-the-art Machine Learning/Artificial Intelligence methods to develop enriched computational models of human phenotypes. We are pursuing these goals through 3 research foci:\n1- Clinical. Incorporating clinical knowledge and informatics approaches to develop phenotype models (for cohort classification and predictions) using clinical data, especially data stored in electronic health record systems.\n2- Computational. Developing and validating Thinkin' (i.e., specialized, time-aware, data-centric, interpretable, portable, and fair) ML/AI systems to enable precision medicine.\n3- Temporal. Leveraging temporal information in digital records to enrich computational models of evolving and complex human phenotypes."
+  },
+  {
+    "objectID": "index.html#propensity-score-analysis-for-medical-research-a-primer-and-tutorial-ps-tutorial",
+    "href": "index.html#propensity-score-analysis-for-medical-research-a-primer-and-tutorial-ps-tutorial",
+    "title": "Clinical Augmented Intelligence (CLAI) Group",
+    "section": "Propensity Score Analysis for Medical Research : A Primer and Tutorial (PS Tutorial)",
+    "text": "Propensity Score Analysis for Medical Research : A Primer and Tutorial (PS Tutorial)\nPropensity score analysis is a popular method of adjusting for confounding in observational studies, i.e., studies where patients are not randomly assigned into treatment groups. Despite its popularity in medical research, there are many nuances to the method that are often missed by researchers, including about the assumptions required, the quantities that can be estimated, and the correct procedures for performing and reporting an analysis"
+  },
+  {
+    "objectID": "index.html#machine-learning-for-health-outcomes-mlho",
+    "href": "index.html#machine-learning-for-health-outcomes-mlho",
+    "title": "Clinical Augmented Intelligence (CLAI) Group",
+    "section": "Machine Learning for Health Outcomes (MLHO)",
+    "text": "Machine Learning for Health Outcomes (MLHO)\nMLHO is a thinkin’ Machine Learning framework that implements iterative sequential representation mining, and feature and model selection to predict health outcomes. MLHO’s architecture enables a parallel and outcome-oriented model calibration, in which different statistical learning algorithms and vectors of features are simultaneously tested to improve prediction of health outcomes."
+  },
+  {
+    "objectID": "index.html#post-acute-sequelae-of-sars-cov-2-infection-pasc-analysis",
+    "href": "index.html#post-acute-sequelae-of-sars-cov-2-infection-pasc-analysis",
+    "title": "Clinical Augmented Intelligence (CLAI) Group",
+    "section": "Post-Acute Sequelae of SARS-CoV-2 Infection (PASC) Analysis",
+    "text": "Post-Acute Sequelae of SARS-CoV-2 Infection (PASC) Analysis\nThis project aims to implement a computational algorithm for defining long COVID patients based on the WHO definition. We provide different scripts to streamline multi-site implementation."
+  }
+]

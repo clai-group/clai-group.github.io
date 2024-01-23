@@ -1,7 +1,5 @@
 ---
-title: " Clinical Augmented Intelligence (CLAI) Group"
-format: html
-editor: visual
+title: "Clinical Augmented Intelligence (CLAI) Group"
 ---
 
 ##### Integrating Medicine, Data Science, & Phenomenology to enrich human phenotype models.
@@ -11,11 +9,6 @@ editor: visual
 # About Us
 
 Our goal at CLAI is to integrate *phenomenological theory*and *clinical knowledge* with state-of-the-art *Machine Learning/Artificial Intelligence* methods to **develop enriched computational models of human phenotypes.**
-
-```{r, include=F}
-library(ggplot2)
-library(dplyr)
-```
 
 # Projects
 
