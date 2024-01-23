@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: .
 
 website:
   title: "CLAI"
@@ -14,6 +15,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    standalone: true
 
 editor: visual
 
