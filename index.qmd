@@ -1,5 +1,10 @@
 ---
 title: "Clinical Augmented Intelligence (CLAI) Group"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
 ---
 
 ##### Integrating Medicine, Data Science, & Phenomenology to enrich human phenotype models.
